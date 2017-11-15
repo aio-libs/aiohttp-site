@@ -1,1 +1,1 @@
-http://docs.aiohttp.org/* https://docs.aiohttp.org/:splat 302!
+https://docs.aiohttp.org/* http://docs.aiohttp.org/:splat 302!
